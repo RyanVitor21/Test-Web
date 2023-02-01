@@ -1,2 +1,3 @@
-# Test-Web
-treino de testes WEB Eu e https://github.com/adryarhamara
+# Test-front-
+Desenvolvendo com cypress o teste do front
+Autora: Adrya Rhamara
