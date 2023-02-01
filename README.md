@@ -1,3 +1,3 @@
-# Test-front-
+# Test-front
 Desenvolvendo com cypress o teste do front
-Autora: Adrya Rhamara
+Autores: Adrya Rhamara & Ryan Vitor
